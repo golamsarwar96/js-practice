@@ -14,3 +14,4 @@ else{
     console.log("Ticket fare 800 tk");
 }
 
+console.log(10 < "5");
